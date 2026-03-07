@@ -1,5 +1,5 @@
 # Токен бота, string
-token = "7384956038:AAEDPmcF3GiGNAhvz4Ajp7XEyp8f1zjE-GI"
+token = "7384956038:AAEPjtqFWM3jRek_-xRy1Uwvz6A-9fjXPes-GI"
 # id админа в integer
 admin = 300404908
 
